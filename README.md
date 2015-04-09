@@ -1,5 +1,6 @@
 # 我的博客收集
 收集一些有价值的开发资源
+http://blog.runforfuture.com/ - 你还可以通过这里找到我
 
 Table of Contents
 =================
