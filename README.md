@@ -1,5 +1,5 @@
-# 我的博客收集
-收集一些有价值的开发资源，你还可以通过这里找到我 http://blog.runforfuture.com/
+# Collection
+收集一些有价值的开发资源，你还可以通过这里找到我 http://luchangwei.com/
 
 Table of Contents
 =================
