@@ -6,6 +6,7 @@
 =================
 
   * https://github.com/alibaba/p3c - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+  * https://yq.aliyun.com/articles/224817 - 《阿里巴巴Java开发手册》IDEA插件与Eclipse插件使用指南
   
 性能调优
 =================
