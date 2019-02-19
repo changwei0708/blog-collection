@@ -37,6 +37,8 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
      * [Vagrant box indexes](#vagrant-box-indexes)
    * [Data mining](#data-mining)
+   * [Email Address Verification](#email-address-verification)
+   * [IP Address Geolocation](#ip-address-geolocation)
 
 ## Android
 
@@ -322,6 +324,7 @@ Table of Contents
 ## Payment / Billing Integration
 
  * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $ 50.000 are free of charge.
+ * https://www.fraudlabspro.com - Screen an order transaction for payment fraud. This REST API will detects all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month. {sign up https://www.fraudlabspro.com/pricing}
 
 ## Other Packs
 
@@ -340,3 +343,9 @@ Table of Contents
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
+
+## Email Address Verification
+  * https://www.mailboxvalidator.com - Freemium email verification service using real mail server connection to confirm valid email. Free API plan has 300 verifications per month. {sign up https://www.mailboxvalidator.com/plans#api}
+  
+## IP Address Geolocation
+  * https://www.ip2location.com - Freemium IP geolocation service. LITE database is available for free download. Import the database in server and perform local query to determine city, coordinates and ISP information.
